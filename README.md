@@ -1,5 +1,7 @@
 # 💫 About Me:
-i am working on full stack developer , web developer, frontend developer, backend developer, database, data Analyst
+
+👋 Hi, I'm Amit Kumar
+I am Amit Kumar, a passionate Full Stack Developer & Data Analyst with strong experience in Frontend, Backend, Databases, and Data Analysis. I love building scalable web applications and transforming data into meaningful insights.i am working on full stack developer , web developer, frontend developer, backend developer, database, data Analyst
 
 
 ## 🌐 Socials:
