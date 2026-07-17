@@ -1,7 +1,8 @@
-# 💫 About Me:
+# 👋 Hi, I'm Amit Kumar
 
-👋 Hi, I'm Amit Kumar
-I am Amit Kumar, a passionate Full Stack Developer & Data Analyst with strong experience in Frontend, Backend, Databases, and Data Analysis. I love building scalable web applications and transforming data into meaningful insights.i am working on full stack developer , web developer, frontend developer, backend developer, database, data Analyst
+🚀 Full Stack Developer | SDE-1 Aspirant | MERN Stack Developer
+
+I'm a Computer Science Engineering student passionate about building scalable web applications and solving real-world problems through technology. I enjoy developing high-performance full-stack applications using the MERN stack, Next.js, and AWS while continuously improving my Data Structures & Algorithms and System Design skills.
 
 
 
